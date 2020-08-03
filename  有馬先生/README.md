@@ -37,6 +37,10 @@
     - 1 ， 10 代表区间 1～ 10
   - **button**
     - 用于触发
+  - **print**
+    - 用来监测输出的数值
+    - 在max console的窗口可以监测
+    - 快捷键 command + m
 
 - 每个object上方都有两个input接口
   - 左边的端口是红色 
@@ -47,8 +51,9 @@
   - 用于切换编程的模式与运行的模式 
     - 快捷键  command + E
 
-- Max 的message的种类
+- **Max 的message的种类**
   - bang
+    - max 独特的message
   - 整数（int）
   - 小数（floating）
   - 列表（list）
