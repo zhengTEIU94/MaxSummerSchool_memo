@@ -59,5 +59,11 @@
   - 列表（list）
   - 符号
 
-
+- 整数和小数
+  - 整数 int  number
+    - 快捷键 i 
+  - 小数 floating  number
+    - 快捷键 f 
+  - **需注意**如果小数object连至整数object
+    - 则小数点之后的数不会被读取
 
