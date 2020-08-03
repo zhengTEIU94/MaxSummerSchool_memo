@@ -68,3 +68,5 @@
     - 如果小数object连至整数object则小数点之后的数不会被读取
     - 在运算的情况下也是，例如进行除法运算时，若output的object为int object时， 则余数（如果有）部分不会被显示
 - list （列表）
+  - 用message来书写
+  - 
