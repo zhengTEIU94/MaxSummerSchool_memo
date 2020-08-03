@@ -22,8 +22,6 @@
 
   - 下方会出现更多对应范畴选项
 
-  
-
 - 提及到的**Object**
   - **random** 
     - 例如random 100
@@ -45,14 +43,16 @@
   - 右边的端口是蓝色
 
 - 左下角有一个lock的图标
-
   - 点击之后切换lock/unlock状态
-
   - 用于切换编程的模式与运行的模式 
-
     - 快捷键  command + E
 
-      
+- Max 的message的种类
+  - bang
+  - 整数（int）
+  - 小数（floating）
+  - 列表（list）
+  - 符号
 
 
 
