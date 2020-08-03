@@ -20,7 +20,7 @@
 
   - ex：
     - bang 
-    - trigger 
+    - toggle
     - random
     - ......
 
@@ -61,6 +61,8 @@
   - 用于切换编程的模式与运行的模式 
     - 快捷键  command + E
 
+- .....
+
   
 
 ### Max 的 message的种类
@@ -74,6 +76,7 @@
   - 符号
 
 - 整数和小数
+
   - 整数 int  number
     - 快捷键 i 
   - 小数 floating  number
@@ -81,10 +84,30 @@
   - **需注意**
     - 如果小数object连至整数object则小数点之后的数不会被读取
     - 在运算的情况下也是，例如进行除法运算时，若output的object为int object时， 则余数（如果有）部分不会被显示
+
 - **list** （列表）
+
   - 用message来书写
+
   - 例如 将list “60 30 200 ” 连至**makenote object**
+
     - 60 = 音高  
     - 30 = 强弱
     - 200 = 延长时值
 
+    
+
+### metro object 的使用
+
+>  bang出现的频率
+
+
+
+- 需要一个Toggle object
+  - Toggle 亮的时候 = 1
+  - 暗的时候 = 0
+- metro 300
+  - 300这个（augment）的部分
+    - 所有augment的部分
+    - 基本上都是可以根据自己的设定修改
+  - 意为0.3秒/bang一次
