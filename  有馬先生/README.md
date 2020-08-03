@@ -122,6 +122,17 @@
 
 - 使用方法与metro object相同
 - 用toggle触发metro 
-- 通过bang来触发random的乱数
+- 通过bang来触发random来产生乱数
   - metro的频率由 metro决定
 
+
+
+### counter object 的使用
+
+> 按顺序产生数值
+
+- 使用方法与metro object相同
+- 用toggle触发metro 
+- 通过bang来触发counter
+  - metro的频率由 metro决定
+- 具体参照上部分提及的counter
