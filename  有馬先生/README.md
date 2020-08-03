@@ -111,3 +111,17 @@
     - 所有augment的部分
     - 基本上都是可以根据自己的设定修改
   - 意为0.3秒/bang一次
+
+
+
+### random object 的使用
+
+> 随机生成指定区间的乱数
+
+
+
+- 使用方法与metro object相同
+- 用toggle触发metro 
+- 通过bang来触发random的乱数
+  - metro的频率由 metro决定
+
