@@ -25,12 +25,31 @@
   
 
 - 提及到的**Object**
+
   - **random** 
+
     - 例如random 100
     - 则根据bang的频率随机出现100以内的乱数  
     - 0 - 99
-  - counter 
+
+  - **counter** 
+
+    - 例如counter 0 1 10 
+
+    - 有3个augment 
+
+    - 0 的部分用来决定counter的数序
+
+      - 0 是正序数
+      - 1 是反序数
+      - 2 是 正序数+反序数
+
+    - 1 ， 10 代表区间 1～ 10
+
+      
+
   - message 
+
   - button
 
 - 每个object上方都有两个input接口
